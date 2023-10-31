@@ -6,6 +6,11 @@
 }
 
 header{
-    background-image: url(./imagens/pg-mobile.jfif);
+    background-image: url(./imagens/fundo.svg);
     background-size: cover;
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
